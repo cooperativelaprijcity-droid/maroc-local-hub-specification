@@ -1,0 +1,1 @@
+# maroc-local-hub-specification

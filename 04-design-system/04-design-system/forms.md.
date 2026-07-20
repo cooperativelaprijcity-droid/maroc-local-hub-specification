@@ -1,0 +1,105 @@
+# Form System
+
+> Document ID: MLH-DESIGN-006
+>
+> Version: 1.0.0
+>
+> Status: Draft
+>
+> Owner: Maroc Local Hub
+
+---
+
+# Purpose
+
+This document defines the form system for Maroc Local Hub.
+
+Forms must be simple, accessible, and optimized for desktop and mobile.
+
+---
+
+# Components
+
+- Text Input
+- Text Area
+- Select
+- Checkbox
+- Radio Button
+- Toggle Switch
+- Date Picker
+- File Upload
+- Search Field
+
+---
+
+# Field Sizes
+
+Small
+
+36px
+
+Medium
+
+44px
+
+Large
+
+52px
+
+---
+
+# Validation
+
+Success
+
+Green border
+
+Warning
+
+Orange border
+
+Error
+
+Red border
+
+Required fields
+
+Marked with *
+
+---
+
+# Labels
+
+Always visible.
+
+Short and descriptive.
+
+---
+
+# Help Text
+
+Displayed below the field.
+
+Keep under two lines.
+
+---
+
+# Error Messages
+
+Clear
+
+Specific
+
+Actionable
+
+---
+
+# Accessibility
+
+Support keyboard navigation.
+
+Visible focus state.
+
+Minimum touch target: 44 × 44 px.
+
+Compatible with screen readers.
